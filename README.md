@@ -135,8 +135,6 @@ FPB 9 dan 12 adalah 3
 
 ## 🧠 Tujuan Pembelajaran
 
-Quiz ini mengukur kemampuan mahasiswa dalam:
-
 * Menggunakan **logika dasar pemrograman**.
 * Menerapkan **struktur kontrol (percabangan & perulangan)**.
 * Mengembangkan **algoritma sederhana menjadi program nyata**.
@@ -144,8 +142,6 @@ Quiz ini mengukur kemampuan mahasiswa dalam:
 ---
 
 ## 🧾 Catatan Tambahan
-
-Pastikan:
 
 * Program berjalan **tanpa error**.
 * Menggunakan **komentar dan format kode yang rapi**.
