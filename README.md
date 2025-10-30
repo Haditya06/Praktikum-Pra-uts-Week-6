@@ -1,6 +1,5 @@
-# Praktikum-Pra-uts-Week-6
-
 # 📘 QUIZ Pra UTS – Algoritma Pemrograman 
+# Praktikum-Pra-uts-Week-6
 
 ### 🏫 Universitas Telkom Surabaya
 
@@ -141,7 +140,7 @@ FPB 9 dan 12 adalah 3
 
 ---
 
-## 🧾 Catatan Tambahan
+## 🧾 Catatan Tambahan ni
 
 * Program berjalan **tanpa error**.
 * Menggunakan **komentar dan format kode yang rapi**.
