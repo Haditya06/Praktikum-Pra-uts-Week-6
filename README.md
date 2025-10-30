@@ -2,13 +2,13 @@
 # Praktikum-Pra-uts-Week-6
 
 ### 🏫 Universitas Telkom Surabaya
-
+```
 **Program Studi :** Rekayasa Perangkat Lunak(RPL).\
 **Mata Kuliah   :** Algoritma Pemrograman.\
 **Semester 1    :** Ganjil 2025/2026.\
 **Assessment ke :** 1. \
 **Metode        :** Tes Pengkodean.
-
+```
 --- 
 
 ## ⚙️ Petunjuk Umum
