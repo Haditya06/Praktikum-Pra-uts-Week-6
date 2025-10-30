@@ -11,14 +11,14 @@ Assessment ke : 1
 Metode        : Tes Pengkodean
 ```
 
-```
+
 ## ⚙️ Petunjuk Umum
 
 * Terdiri dari **3 soal utama** dengan total 100 poin.
 * Tidak diperkenankan menggunakan AI atau alat bantu otomatis.
 * Semua logika dan kode harus dibuat manual menggunakan editor dan compiler.
 * Setiap program wajib mencantumkan **nama dan NIM**.
-```
+
 
 
 ## 🧩 Soal 1 – Validasi Nomor Identifikasi Perangkat (25 poin)
