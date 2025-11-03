@@ -20,7 +20,6 @@ Metode        : Tes Pengkodean
 * Setiap program wajib mencantumkan **nama dan NIM**.
 
 
-
 ## 🧩 Soal 1 – Validasi Nomor Identifikasi Perangkat (25 poin)
 
 ### 📝 Deskripsi
