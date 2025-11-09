@@ -35,7 +35,7 @@ Dira, asisten laboratorium baru, bertugas membuat **nomor identifikasi perangkat
 ### 📥 Input
 
 5 buah angka, masing-masing terdiri dari 3 digit.
-
+ 
 ### 📤 Output
 
 Setiap angka diikuti dengan status:
