@@ -2,7 +2,6 @@
 # Praktikum-Pra-uts-Week-6
  
 ### 🏫 Universitas Telkom Surabaya
-
 ```
 Program Studi : Rekayasa Perangkat Lunak (RPL)
 Mata Kuliah   : Algoritma Pemrograman
