@@ -1,6 +1,6 @@
 # 📘 QUIZ Pra UTS – Algoritma Pemrograman 
 # Praktikum-Pra-uts-Week-6
-
+ 
 ### 🏫 Universitas Telkom Surabaya
 
 ```
